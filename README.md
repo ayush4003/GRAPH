@@ -22,3 +22,11 @@ AI can use contextual understanding to analyze the query and suggest additional 
 Overall, AI can help to automate the process of converting normal sentences into GraphQL queries, saving time and effort while improving the accuracy and efficiency of the queries.
 
 ![WhatsApp Image 2024-03-14 at 16 51 13_824fd7a7](https://github.com/ayush4003/GRAPH/assets/158837482/d09e8eed-5e22-478b-94ba-0ef3e0bee527)
+
+![WhatsApp Image 2024-03-14 at 16 51 57_c3f31d24](https://github.com/ayush4003/GRAPH/assets/158837482/d2eba041-5b46-4739-89de-7c1085501828)
+
+![WhatsApp Image 2024-03-14 at 16 52 14_ee277944](https://github.com/ayush4003/GRAPH/assets/158837482/7f9a8c04-38c9-4104-99dd-1ea8e8db1670)
+
+
+
+
